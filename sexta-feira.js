@@ -10,6 +10,12 @@ const quiz = [
     pergunta: "quem descobriu o Brasil? ",
     opçoes:["Colombo", "Prinecesa Isabel","Getulio", "Cabral"],
     resposta: 3
+},
+
+{
+    pergunta: "quem e mais forte no manga de dbs? ",
+    opçoes:["Kuririn", "Goku", "Vegeta", "Gohan"],
+    resposta: 2
 }
 ]
 
